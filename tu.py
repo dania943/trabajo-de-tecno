@@ -10,7 +10,7 @@ igual= numero1 == numero2
 #igual ==
 #print("tal es mayor que tal",suma)
 if mayor:
-    print("nemero1 es mayor que numero2")
+    print("numero1 es mayor que numero2")
 if igual:
     print("numero1 es igual que numero2") 
 if menor:    
