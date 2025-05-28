@@ -4,7 +4,7 @@ numero1=int(input())
 numero2=int(input("ingrese otro numero"))
 suma=(numero1+numero2)
 print("la suma de estos numeros da",suma)
-menor= numero1 < numero2
+menor= numero1 < numero2    
 mayor= numero1 > numero2
 igual= numero1 == numero2
 #igual ==
