@@ -22,3 +22,4 @@ gabriel=Profesor("Gabriel")
 tic5to1ra = clase("TIC",5,1,gabriel)
 
 
+
