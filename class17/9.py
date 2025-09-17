@@ -11,7 +11,8 @@ class Española(Baraja)
 class Francesa(Baraja):
     TREBOL = auto()
     DIAMANTE = auto()
-    ESPADA = auto()CORAZONES = auto()
+    ESPADA = auto()
+    CORAZONES = auto()
 class Numero(Enum):
     DOS =2
     TRES =3
